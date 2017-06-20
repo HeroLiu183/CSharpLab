@@ -1,0 +1,7 @@
+D:\CSharpLab\CSharpLab\CSharpLabTests\bin\Debug\CSharpLabTests.dll
+D:\CSharpLab\CSharpLab\CSharpLabTests\bin\Debug\CSharpLabTests.pdb
+D:\CSharpLab\CSharpLab\CSharpLabTests\obj\Debug\CSharpLabTests.dll
+D:\CSharpLab\CSharpLab\CSharpLabTests\obj\Debug\CSharpLabTests.pdb
+D:\CSharpLab\CSharpLab\CSharpLabTests\bin\Debug\CSharpLab.dll
+D:\CSharpLab\CSharpLab\CSharpLabTests\bin\Debug\CSharpLab.pdb
+D:\CSharpLab\CSharpLab\CSharpLabTests\obj\Debug\CSharpLabTests.csprojResolveAssemblyReference.cache

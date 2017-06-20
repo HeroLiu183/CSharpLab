@@ -1,0 +1,4 @@
+D:\CSharpLab\CSharpLab\CSharpLab\bin\Debug\CSharpLab.dll
+D:\CSharpLab\CSharpLab\CSharpLab\bin\Debug\CSharpLab.pdb
+D:\CSharpLab\CSharpLab\CSharpLab\obj\Debug\CSharpLab.dll
+D:\CSharpLab\CSharpLab\CSharpLab\obj\Debug\CSharpLab.pdb
