@@ -8,10 +8,5 @@ namespace CSharpLab.ExtensionMethod
         {
             throw new NotImplementedException();
         }
-
-        public static void PrintType(this MyClass myClass)
-        {
-            Console.WriteLine(myClass.Type)S;
-        }
     }
 }
