@@ -5,3 +5,9 @@ D:\CSharpLab\CSharpLab\CSharpLabTests\obj\Debug\CSharpLabTests.pdb
 D:\CSharpLab\CSharpLab\CSharpLabTests\bin\Debug\CSharpLab.dll
 D:\CSharpLab\CSharpLab\CSharpLabTests\bin\Debug\CSharpLab.pdb
 D:\CSharpLab\CSharpLab\CSharpLabTests\obj\Debug\CSharpLabTests.csprojResolveAssemblyReference.cache
+D:\CSharpLab\CSharpLab\CSharpLabTests\bin\Debug\FluentAssertions.Core.dll
+D:\CSharpLab\CSharpLab\CSharpLabTests\bin\Debug\FluentAssertions.dll
+D:\CSharpLab\CSharpLab\CSharpLabTests\bin\Debug\FluentAssertions.pdb
+D:\CSharpLab\CSharpLab\CSharpLabTests\bin\Debug\FluentAssertions.xml
+D:\CSharpLab\CSharpLab\CSharpLabTests\bin\Debug\FluentAssertions.Core.pdb
+D:\CSharpLab\CSharpLab\CSharpLabTests\bin\Debug\FluentAssertions.Core.xml

@@ -1,5 +1,7 @@
-﻿using CSharpLab.ExtensionMethod;
+﻿using System;
+using CSharpLab.ExtensionMethod;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using FluentAssertions;
 
 namespace CSharpLabTests.ExtensionMethodTests
 {
@@ -67,5 +69,16 @@ namespace CSharpLabTests.ExtensionMethodTests
             //Assert
             Assert.AreEqual(expect,actual);
         }
+        [TestMethod]
+        public void String_Pars_To_Int_Extension_Method_Pars_string_Shold_Thow_Expection()
+        {
+            //Arrange
+            var target = "sss";
+            //Act
+            Action action = () => target.ParsToInt();
+            //Assert
+            action.ShouldThrow<FormatException>();
+        }
+
     }
 }
