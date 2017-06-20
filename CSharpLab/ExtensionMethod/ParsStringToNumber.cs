@@ -6,7 +6,7 @@ namespace CSharpLab.ExtensionMethod
     {
         public static int ParsToInt(this string intString )
         {
-            throw new NotImplementedException();
+            return Int32.Parse(intString);
         }
     }
 }
